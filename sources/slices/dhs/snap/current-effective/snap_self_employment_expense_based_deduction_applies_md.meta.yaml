@@ -1,7 +1,0 @@
-version: 1
-relations:
-  - relation: sets
-    target: cfr/7/273.11/b/3#snap_self_employment_expense_based_deduction_applies
-    jurisdiction: MD
-    delegated_from: cfr/7/273.11/b/3
-    note: Maryland allows SNAP self-employment business-expense treatment under the federal state-option framework.

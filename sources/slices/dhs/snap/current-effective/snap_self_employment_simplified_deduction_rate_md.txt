@@ -1,5 +1,5 @@
-Maryland SNAP self-employment expense option under DHS SNAP Manual Section 104
-Self-employed Households for period 2026-01.
+Maryland SNAP self-employment simplified deduction rate under DHS SNAP Manual
+Section 104 Self-employed Households for period 2026-01.
 
 Use monthly SNAP period 2026-01.
 
@@ -10,6 +10,5 @@ To calculate self-employment income, allow a deduction of 50% from the gross
 income as the cost for producing the income before applying the 20% earned
 income deduction.
 
-Model `snap_self_employment_expense_based_deduction_applies` as whether
-Maryland allows actual self-employment business expenses to be deducted under
-current-effective SNAP policy.
+Model `snap_self_employment_simplified_deduction_rate` as Maryland's
+current-effective SNAP simplified self-employment deduction rate.
